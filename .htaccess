@@ -1,0 +1,6 @@
+ErrorDocument 400 /it/home.html
+ErrorDocument 401 /it/home.html
+ErrorDocument 403 /it/home.html
+ErrorDocument 404 /it/home.html
+ErrorDocument 500 /it/home.html
+
